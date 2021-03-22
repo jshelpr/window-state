@@ -1,0 +1,20 @@
+{
+  "name": "window-state",
+  "version": "1.0.0",
+  "description": "Use the Javascript window state for your app state management",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "state",
+    "management",
+    "javascript",
+    "window"
+  ],
+  "author": "Haneen Mahdin",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.22.0"
+  }
+}
